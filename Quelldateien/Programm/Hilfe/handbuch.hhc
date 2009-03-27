@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Mau Dau Mau">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Was ist Mau Dau Mau">
+			<param name="Local" value="inhalt\whatis.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Spielregeln">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Spielablauf">
+				<param name="Local" value="inhalt\round.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Aktionskarten">
+				<param name="Local" value="inhalt\actioncards.html">
+				<param name="ImageNumber" value="21">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Aktionskarte: 7">
+					<param name="Local" value="inhalt\ac7.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Aktionskarte: 8">
+					<param name="Local" value="inhalt\ac8.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Aktionskarte: 9">
+					<param name="Local" value="inhalt\ac9.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Aktionskarte: Bube">
+					<param name="Local" value="inhalt\acJ.html">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Spielen von Mau Dau Mau">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Ein Spiel aufmachen">
+				<param name="Local" value="inhalt\servercreate.html">
+				<param name="ImageNumber" value="21">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Spiel verwalten">
+					<param name="Local" value="inhalt\serverconfig.html">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Einem Spiel beitreten">
+				<param name="Local" value="inhalt\clientjoin.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Mit anderen Spielern Chatten">
+				<param name="Local" value="inhalt\chat.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Eine Karte spielen">
+				<param name="Local" value="inhalt\cardplay.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Eine Karte ziehen">
+				<param name="Local" value="inhalt\carddraw.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Eine Runde aussetzen">
+				<param name="Local" value="inhalt\turnout.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Aufgeben">
+				<param name="Local" value="inhalt\giveup.html">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Optionen">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Deckblatt wechseln">
+				<param name="Local" value="inhalt\optdeckblatt.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Spieler Optionen">
+				<param name="Local" value="inhalt\optplayer.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Server Optionen">
+				<param name="Local" value="inhalt\optserver.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Statistiken">
+				<param name="Local" value="inhalt\stats.html">
+				</OBJECT>
+		</UL>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&Uuml;ber Mau Dau Mau">
+		<param name="Local" value="inhalt\author.html">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Quellen">
+			<param name="Local" value="inhalt\quellen.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Lizenz">
+			<param name="Local" value="inhalt\licence.html">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

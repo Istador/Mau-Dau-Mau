@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Farbe">
+		<param name="Name" value="Spielablauf">
+		<param name="Local" value="inhalt\round.html">
+		<param name="Name" value="Was ist Mau Dau Mau?">
+		<param name="Local" value="inhalt\whatis.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Wert">
+		<param name="Name" value="Spielablauf">
+		<param name="Local" value="inhalt\round.html">
+		<param name="Name" value="Was ist Mau Dau Mau?">
+		<param name="Local" value="inhalt\whatis.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="7">
+		<param name="Name" value="Aktionskarte: 7">
+		<param name="Local" value="inhalt\ac7.html">
+		<param name="Name" value="Eine Karte ziehen">
+		<param name="Local" value="inhalt\carddraw.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sieben">
+		<param name="Name" value="Aktionskarte: 7">
+		<param name="Local" value="inhalt\ac7.html">
+		<param name="Name" value="Eine Karte ziehen">
+		<param name="Local" value="inhalt\carddraw.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="8">
+		<param name="Name" value="Aktionskarte: 8">
+		<param name="Local" value="inhalt\ac8.html">
+		<param name="Name" value="Eine Runde aussetzen">
+		<param name="Local" value="inhalt\turnout.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Acht">
+		<param name="Name" value="Aktionskarte: 8">
+		<param name="Local" value="inhalt\ac8.html">
+		<param name="Name" value="Eine Runde aussetzen">
+		<param name="Local" value="inhalt\turnout.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="9">
+		<param name="Name" value="Aktionskarte: 9">
+		<param name="Local" value="inhalt\ac9.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Neun">
+		<param name="Name" value="Aktionskarte: 9">
+		<param name="Local" value="inhalt\ac9.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="J">
+		<param name="Name" value="Aktionskarte: Bube">
+		<param name="Local" value="inhalt\acJ.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bube">
+		<param name="Name" value="Aktionskarte: Bube">
+		<param name="Local" value="inhalt\acJ.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Aktionskarte">
+		<param name="Name" value="Aktionskarten">
+		<param name="Local" value="inhalt\actioncards.html">
+		<param name="Name" value="Aktionskarten">
+		<param name="Local" value="inhalt\optserverac.html">
+		<param name="Name" value="Aktionskarte: 7">
+		<param name="Local" value="inhalt\ac7.html">
+		<param name="Name" value="Aktionskarte: 8">
+		<param name="Local" value="inhalt\ac8.html">
+		<param name="Name" value="Aktionskarte: 9">
+		<param name="Local" value="inhalt\ac9.html">
+		<param name="Name" value="Aktionskarte: Bube">
+		<param name="Local" value="inhalt\acJ.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Server">
+		<param name="Name" value="Ein Spiel aufmachen">
+		<param name="Local" value="inhalt\servercreate.html">
+		<param name="Name" value="Mit anderen Spielern Chatten">
+		<param name="Local" value="inhalt\chat.html">
+		<param name="Name" value="Server Optionen">
+		<param name="Local" value="inhalt\optserver.html">
+		<param name="Name" value="Spiel verwalten">
+		<param name="Local" value="inhalt\serverconfig.html">
+		<param name="Name" value="Spiel beenden">
+		<param name="Local" value="inhalt\serverclose.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Client">
+		<param name="Name" value="Einem Spiel beitreten">
+		<param name="Local" value="inhalt\clientjoin.html">
+		<param name="Name" value="Deckblatt wechseln">
+		<param name="Local" value="inhalt\optdeckblatt.html">
+		<param name="Name" value="Spieler Optionen">
+		<param name="Local" value="inhalt\optplayer.html">
+		<param name="Name" value="Eine Karte spielen">
+		<param name="Local" value="inhalt\cardplay.html">
+		<param name="Name" value="Eine Karte ziehen">
+		<param name="Local" value="inhalt\carddraw.html">
+		<param name="Name" value="Eine Runde aussetzen">
+		<param name="Local" value="inhalt\turnout.html">
+		<param name="Name" value="Mit anderen Spielern Chatten">
+		<param name="Local" value="inhalt\chat.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Author">
+		<param name="Name" value="&Uuml;ber Mau Dau Mau">
+		<param name="Local" value="inhalt\author.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Optionen">
+		<param name="Name" value="Server Optionen">
+		<param name="Local" value="inhalt\optserver.html">
+		<param name="Name" value="Aktionskarten">
+		<param name="Local" value="inhalt\optserverac.html">
+		<param name="Name" value="Spieler Optionen">
+		<param name="Local" value="inhalt\optplayer.html">
+		<param name="Name" value="Deckblatt wechseln">
+		<param name="Local" value="inhalt\optdeckblatt.html">
+		<param name="Name" value="Aktionskarte: 7">
+		<param name="Local" value="inhalt\ac7.html">
+		<param name="Name" value="Aktionskarte: 8">
+		<param name="Local" value="inhalt\ac8.html">
+		<param name="Name" value="Aktionskarte: 9">
+		<param name="Local" value="inhalt\ac9.html">
+		<param name="Name" value="Aktionskarte: Bube">
+		<param name="Local" value="inhalt\acJ.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>

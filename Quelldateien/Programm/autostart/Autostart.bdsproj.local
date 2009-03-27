@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.03.09 18:50:08.687.pas,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Unit1.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\autostart\FMainform.pas</Transaction>
+    <Transaction>2009.03.09 18:50:08.687.dfm,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Unit1.dfm=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\autostart\FMainform.dfm</Transaction>
+    <Transaction>2009.03.09 18:50:19.609.bdsproj,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Project1.bdsproj=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\autostart\Autostart.bdsproj</Transaction>
+    <Transaction>2009.03.09 20:05:11.906.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\autostart\FMainform.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\autostart\FAutoStart.pas</Transaction>
+    <Transaction>2009.03.09 20:05:11.906.dfm,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\autostart\FMainform.dfm=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\autostart\FAutoStart.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

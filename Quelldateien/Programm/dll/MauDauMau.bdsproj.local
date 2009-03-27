@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.09.16 18:06:28.734.bdsproj,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Project1.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\dll\EigenDLL.Project1.bdsproj</Transaction>
+    <Transaction>2008.11.09 03:26:17.453.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\dll\EigenDLL.Project1.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\DLL.MauDauMau.bdsproj</Transaction>
+    <Transaction>2008.11.10 18:18:33.796.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\DLL.MauDauMau.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMau.bdsproj</Transaction>
+    <Transaction>2008.11.10 18:18:33.843.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMau.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\DLL.MauDauMau.bdsproj</Transaction>
+    <Transaction>2008.12.05 02:38:46.515.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\DLL.MauDauMau.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMau.bdsproj</Transaction>
+    <Transaction>2008.12.05 02:38:46.546.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMau.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\DLL.MauDauMau.bdsproj</Transaction>
+    <Transaction>2008.12.05 02:40:51.859.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\DLL.MauDauMau.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMau.bdsproj</Transaction>
+    <Transaction>2008.12.05 02:40:51.875.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMau.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\DLL.MauDauMau.bdsproj</Transaction>
+    <Transaction>2008.12.05 02:41:50.765.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\DLL.MauDauMau.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMauDLL.bdsproj</Transaction>
+    <Transaction>2008.12.11 12:43:23.390.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMauDLL.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\dll\MauDauMau.bdsproj</Transaction>
+    <Transaction>2009.03.07 17:27:29.843.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\dll\UDialogs.pas=</Transaction>
+    <Transaction>2009.03.14 17:09:37.375.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\dll\Unit1.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\dll\UDialogs2.pas</Transaction>
+    <Transaction>2009.03.14 17:22:32.906.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\dll\UDialogs2.pas=</Transaction>
+    <Transaction>2009.03.14 17:49:22.531.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\dll\UDialogs2.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

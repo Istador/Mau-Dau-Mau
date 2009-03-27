@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.12.05 01:32:13.718.bdsproj,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Project1.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\registry2\RegistryFix.bdsproj</Transaction>
+    <Transaction>2008.12.06 13:31:51.578.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\registry2\RegistryFix.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\chmfix.bdsproj</Transaction>
+    <Transaction>2008.12.11 12:43:32.593.bdsproj,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\chmfix.bdsproj=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\chmfix\chmfix.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

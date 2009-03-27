@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>
+Ein Spiel aufmachen
+</title>
+</head>
+<body>
+<div style="font-weight:bold;font-size:14pt;text-align:center;">
+Ein Spiel aufmachen
+</div>
+<hr style="width:100%;" />
+
+Wenn Sie ein Spiel aufmachen wollen, w&auml;hlen Sie im Hauptmen&uuml; <nobr><i>Programm -&gt; Neues Spiel</i></nobr> oder dr&uuml;cken Sie <i>F2</i> auf Ihrer Tastatur.
+<br>
+<br>Danach werden Sie nach einem Port gefragt.
+<br>
+<br><img src="../img/serverport.jpg" alt="Bild von Server Port Eingabe">
+<br>
+<br>Beachten Sie, dass Sie nur Ports im Bereich von 49152 bis 65535 eingeben k&ouml;nnen, da nach <a href="http://www.ietf.org/" target="_blank">IETF</a> Richtlinie <a href="http://tools.ietf.org/html/rfc4340" target="_blank">RFC 4340</a> die Ports 0 bis 49151 f&uuml;r andere Zwecke reserviert sind (verwaltet von der <a href="http://www.iana.org/" target="_blank">IANA</a>) und nicht f&uuml;r private Zwecke gew&auml;hlt werden sollten.
+<br>Sie k&ouml;nnen diese Einschr&auml;nkung umgehen, indem Sie in der <i>MauDauMau.ini</i> Datei folgende Zeile im <i>Client</i>-Abschnitt anh&auml;ngen: <i>RFC4340=0</i>
+<br>
+<br>Nach der Auswahl eines korrekten Ports gelangen Sie in die <a href="serverconfig.html">Spielverwaltung</a>.
+<br>Den Server-Namen sowie das Server-Passwort k&ouml;nnen nur in den <a href="optserver.html">Server-Optionen</a> eingestellt werden. Sie werden beim Aufmachen des Spieles nicht abgefragt.
+</body>
+</html>

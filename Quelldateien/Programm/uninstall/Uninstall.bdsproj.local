@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.03.25 11:05:35.156.pas,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Unit1.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\uninstall\FUninstall1.pas</Transaction>
+    <Transaction>2009.03.25 11:05:35.156.dfm,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Unit1.dfm=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\uninstall\FUninstall1.dfm</Transaction>
+    <Transaction>2009.03.25 11:05:58.000.bdsproj,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Project1.bdsproj=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\uninstall\Uninstall.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

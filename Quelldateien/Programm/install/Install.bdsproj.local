@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.03.09 20:08:04.406.pas,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Unit8.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\FSetup.pas</Transaction>
+    <Transaction>2009.03.09 20:08:04.406.dfm,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Unit8.dfm=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\FSetup.dfm</Transaction>
+    <Transaction>2009.03.09 20:08:19.859.bdsproj,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\Project1.bdsproj=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\Setup.bdsproj</Transaction>
+    <Transaction>2009.03.09 20:10:28.562.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\FSetup.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\FSetup1.pas</Transaction>
+    <Transaction>2009.03.09 20:10:28.562.dfm,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\FSetup.dfm=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\FSetup1.dfm</Transaction>
+    <Transaction>2009.03.09 20:10:41.671.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\Unit8.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\FSetup2.pas</Transaction>
+    <Transaction>2009.03.09 20:10:41.671.dfm,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\Unit8.dfm=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\FSetup2.dfm</Transaction>
+    <Transaction>2009.03.09 20:27:13.812.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\Unit8.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\FSetup3.pas</Transaction>
+    <Transaction>2009.03.09 20:27:13.812.dfm,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\Unit8.dfm=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\quelldateien\programm\setup\FSetup3.dfm</Transaction>
+    <Transaction>2009.03.25 14:09:54.843.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\setup\FSetup1.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\install\FSetup1.pas</Transaction>
+    <Transaction>2009.03.25 14:09:54.843.dfm,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\setup\FSetup1.dfm=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\install\FSetup1.dfm</Transaction>
+    <Transaction>2009.03.25 14:10:08.437.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\setup\FSetup2.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\install\FSetup2.pas</Transaction>
+    <Transaction>2009.03.25 14:10:08.437.dfm,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\setup\FSetup2.dfm=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\install\FSetup2.dfm</Transaction>
+    <Transaction>2009.03.25 14:10:18.484.pas,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\setup\FSetup3.pas=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\install\FSetup3.pas</Transaction>
+    <Transaction>2009.03.25 14:10:18.484.dfm,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\setup\FSetup3.dfm=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\install\FSetup3.dfm</Transaction>
+    <Transaction>2009.03.25 14:10:39.390.bdsproj,C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\setup\Setup.bdsproj=C:\Programmieren\Projekte\Delphi\Mau Dau Mau\Quelldateien\Programm\install\Install.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

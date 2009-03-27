@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.11.09 03:26:52.453.bdsgroup,C:\Dokumente und Einstellungen\Istador\Eigene Dateien\Borland Studio-Projekte\ProjectGroup1.bdsgroup=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMau.bdsgroup</Transaction>
+    <Transaction>2008.12.05 02:39:05.812.bdsgroup,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMau.bdsgroup=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\PMauDauMau.bdsgroup</Transaction>
+    <Transaction>2008.12.05 02:45:50.343.bdsgroup,C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\PMauDauMau.bdsgroup=C:\Dokumente und Einstellungen\Istador\Desktop\delphischulprojekt\quelldateien\programm\MauDauMauProjekt.bdsgroup</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="Uninstall.exe"/>
+	</Default.Personality>
+</BorlandProject>

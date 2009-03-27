@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Anleitung</title>
+<style type="text/css" >
+body {color:black; background-color:white;}
+a {color:blue; cursor:pointer;}
+</style>
+<script type="text/javascript">
+var container = "content";
+function site(url)
+{
+document.getElementById(container).src='inhalt/'+url;
+
+//doIt(url,"text/html","content");
+}
+</script>
+
+</head>
+<body>
+<div style="position:absolute;top:20px;left:20px;width:300px;height:600px;text-align:left;background-color:#CCCCCC;color:#000000;">
+<ul>
+<li>Mau Dau Mau</li>
+	<ul>
+	<li><a href="inhalt/whatis.html" target="content">Was ist Mau Dau Mau?</a></li>
+	<li>Spielregeln</li>
+		<ul>
+		<li><a href="inhalt/round.html" target="content">Spielablauf</a></li>
+		<li><a href="inhalt/actioncards.html" target="content">Aktionskarten</a></li>
+			<ul>
+			<li><a href="inhalt/ac7.html" target="content">7</a></li>
+			<li><a href="inhalt/ac8.html" target="content">8</a></li>
+			<li><a href="inhalt/ac9.html" target="content">9</a></li>
+			<li><a href="inhalt/acJ.html" target="content">Bube</a></li>
+			</ul>
+		</ul>
+	<li>Spielen von Mau Dau Mau</li>
+		<ul>
+		<li><a href="inhalt/servercreate.html" target="content">Ein Spiel aufmachen</a></li>
+			<ul>
+			<li><a href="inhalt/serverconfig.html" target="content">Spiel verwalten</a></li>
+			</ul>
+		<li><a href="inhalt/chat.html" target="content">Mit anderen Spielern Chatten</a></li>
+		<li><a href="inhalt/clientjoin.html" target="content">Einem Spiel beitreten</a></li>
+		<li><a href="inhalt/cardplay.html" target="content">Eine Karte spielen</a></li>
+		<li><a href="inhalt/carddraw.html" target="content">Eine Karte ziehen</a></li>
+		<li><a href="inhalt/turnout.html" target="content">Eine Runde aussetzen</a></li>
+		<li><a href="inhalt/giveup.html" target="content">Aufgeben</a></li>
+		</ul>
+	<li>Optionen</li>
+		<ul>
+		<li><a href="inhalt/optdeckblatt.html" target="content">Deckblatt wechseln</a></li>
+		<li><a href="inhalt/optplayer.html" target="content">Spieler Optionen</a></li>
+		<li><a href="inhalt/optserver.html" target="content">Server Optionen</a></li>
+		</ul>
+	<li><a href="inhalt/stats.html" target="content">Statistiken</a></li>
+	</ul>
+<li><a href="inhalt/author.html" target="content">Über Mau Dau Mau</a></li>
+	<ul>
+	<li><a href="inhalt/quellen.html" target="content">Quellen</a></li>
+	</ul>
+</ul>
+</div>
+
+<iframe style="position:absolute;top:20px;left:340px;width:600px;height:600px;text-align:left;background-color:#CCCCCC;color:#000000;" src="inhalt/whatis.html" name="content" id="content"></iframe>
+
+</body>
+</html>

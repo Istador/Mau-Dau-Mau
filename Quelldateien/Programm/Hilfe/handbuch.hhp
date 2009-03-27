@@ -1,0 +1,59 @@
+[OPTIONS]
+Binary TOC=Yes
+Compatibility=1.1 or later
+Compiled file=..\bin\maudaumau.chm
+Contents file=handbuch.hhc
+Default Font=@Arial Unicode MS,8,0
+Default topic=inhalt\whatis.html
+Display compile progress=Yes
+Enhanced decompilation=Yes
+Full-text search=Yes
+Index file=handbuch.hhk
+Language=0x407 Deutsch (Deutschland)
+Title=Mau Dau Mau Hilfe
+
+
+[FILES]
+inhalt\whatis.html
+inhalt\round.html
+inhalt\actioncards.html
+inhalt\ac7.html
+inhalt\ac8.html
+inhalt\ac9.html
+inhalt\acJ.html
+inhalt\servercreate.html
+inhalt\serverconfig.html
+inhalt\clientjoin.html
+inhalt\chat.html
+inhalt\cardplay.html
+inhalt\carddraw.html
+inhalt\turnout.html
+inhalt\optdeckblatt.html
+inhalt\optplayer.html
+inhalt\optserver.html
+inhalt\stats.html
+inhalt\author.html
+inhalt\quellen.html
+inhalt\licence.html
+inhalt\giveup.html
+
+img\author.jpg
+img\client_options.jpg
+img\client_pregame.jpg
+img\deckblatt.jpg
+img\gameform.jpg
+img\server_options.jpg
+img\server_pregame.jpg
+img\serverhost.jpg
+img\serverpass.jpg
+img\serverport.jpg
+img\stats.jpg
+
+[ALIAS]
+#include a1.h
+
+[MAP]
+#include a2.h
+
+[INFOTYPES]
+

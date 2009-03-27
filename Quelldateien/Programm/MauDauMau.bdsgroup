@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{A981268A-F9AA-4E8E-81C1-D492FEF140D5}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="MauDauMau.exe">executable\MauDauMau.bdsproj</Projects>
+      <Projects Name="chmfix.exe">chmfix\chmfix.bdsproj</Projects>
+      <Projects Name="MauDauMau.dll">dll\MauDauMau.bdsproj</Projects>
+      <Projects Name="Autostart.exe">autostart\Autostart.bdsproj</Projects>
+      <Projects Name="Install.exe">install\Install.bdsproj</Projects>
+      <Projects Name="Uninstall.exe">uninstall\Uninstall.bdsproj</Projects>
+      <Projects Name="Targets">MauDauMau.exe chmfix.exe MauDauMau.dll Autostart.exe Install.exe Uninstall.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>
